@@ -9,6 +9,8 @@ git clone https://github.com/debnsuma/pycon_polars101.git
 cd pycon_polars101
 chmod +x pip-deploy.sh
 ./pip-deploy.sh
+source polar_env/bin/activate
+cd notebooks
 jupyter lab
 ```
 
