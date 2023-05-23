@@ -5,8 +5,8 @@ Thanks to Liam Brannigan and his course on ["Data Analysis with Polars"](https:/
 ## Getting started
 
 ```bash
-git clone https://github.com/debnsuma/polars101.git
-cd polars101
+git clone https://github.com/debnsuma/pycon_polars101.git
+cd pycon_polars101
 chmod +x pip-deploy.sh
 ./pip-deploy.sh
 jupyter lab
