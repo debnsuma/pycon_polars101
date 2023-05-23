@@ -12,4 +12,4 @@ chmod +x pip-deploy.sh
 jupyter lab
 ```
 
-Follow all the sections one after another. 
+Follow all the sections one after another under the `notebooks` folder. 
