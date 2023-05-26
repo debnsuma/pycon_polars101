@@ -2,3 +2,5 @@ build/
 polar_env
 polar_env/
 polar_env/*
+book
+book/*
