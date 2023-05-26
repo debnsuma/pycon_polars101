@@ -1,0 +1,12 @@
+polars
+connectorx
+xlsx2csv
+pyarrow
+ipython
+jupyterlab
+plotly
+pandas
+matplotlib
+seaborn
+xlsxwriter
+RISE
