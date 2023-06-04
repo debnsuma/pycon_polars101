@@ -10,7 +10,7 @@ We focus more on the following, which makes Polars special:
 - lazy execution
 - expresive API
 
-We are going to use Amazon SageMaker Notebook as our working environment, and you may like to use any environment of your choice. 
+We are going to use **Amazon SageMaker Notebook** as our working environment, and you may like to use any environment of your choice. 
 
 
 
