@@ -2,6 +2,8 @@
 
 ![polars](/img.png)
 
+## Introduction
+
 In this workshop we will start with [**Polars**](https://pola-rs.github.io/polars-book/) basics and shall compare with Pandas DataFrame, and shall walk through code exploring functions and features of Polars, for example load and transform data from CSV, Excel, or Parquet, perform data analysis in parallel and prepare your data for machine learning pipelines and shall compare with **Pandas** and **Spark**. 
 
 We focus more on the following, which makes Polars special:
