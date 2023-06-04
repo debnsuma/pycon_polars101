@@ -1,4 +1,4 @@
-# Welcome to this Polars Workshop
+# <h1 align="center"><strong>Welcome to Polars Workshop on AWS</strong> </h1>
 
 ![polars](/img.png)
 
@@ -28,4 +28,4 @@ cd notebooks
 jupyter lab
 ```
 
-Follow all the sections one after another under the `notebooks` folder 
+Follow all the sections one after another under the **`notebooks`** folder 
