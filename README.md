@@ -1,4 +1,4 @@
-# <h1 align="center"><strong>Welcome to Polars Workshop on AWS</strong> </h1>
+# <h1 align="center"><strong> 🐻‍❄️ Welcome to Polars Workshop on AWS 🐻‍❄️</strong> </h1>
 
 ![polars](/img.png)
 
